@@ -1,0 +1,12 @@
+.DS_Store
+
+# Java / Spring Boot
+backend/target/
+backend/data/
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# Logs
+*.log
